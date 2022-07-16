@@ -4,3 +4,7 @@ Features of application -
 1. Flight Search
 2. Flight booking
 3. User Account for booking
+
+Contributors - 
+!(https://github.com/omkarkajarekar)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
