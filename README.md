@@ -6,4 +6,6 @@ Features of application -
 3. User Account for booking
 
 Contributors - 
-(https://github.com/omkarkajarekar)
+[Omkar Kajarekar](https://github.com/omkarkajarekar)
+[Vivek Utture](https://github.com/vivekutture)
+[Rutuja Pandharpatte](https://github.com/RutujaPandharpatte)
