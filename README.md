@@ -6,5 +6,4 @@ Features of application -
 3. User Account for booking
 
 Contributors - 
-!(https://github.com/omkarkajarekar)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+(https://github.com/omkarkajarekar)
