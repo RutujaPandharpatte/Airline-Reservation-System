@@ -5,8 +5,6 @@ Features of application -
 2. Flight booking
 3. User Account for booking
 
-Screenshots - 
-![Dashboard](C:\Users\omkar\Desktop\upload)
 
 Contributors - 
  - [Omkar Kajarekar](https://github.com/omkarkajarekar)
